@@ -1,3 +1,26 @@
+
+// Write a method hasEqualProduct with 3 parameters of type int.
+
+// The method should return boolean and it needs to return true if the product of the first and second parameter is equal to the third parameter. Otherwise, return false.  
+
+// Example 
+
+// Input :
+
+// 2 3 6
+
+// Output :
+
+// True  
+
+// Explanation:
+
+// Since 2*3 is equal to 6, hence return true.
+
+
+
+
+
 import java.util.Scanner;
 public class EqualProductChecker
 {
