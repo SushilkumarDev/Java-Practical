@@ -1,3 +1,7 @@
+
+// Declare a double variable weightKgs and take input from the user in kilograms. Also, Create a method convert(double kgs) and convert the weight to grams and milligrams.
+
+
 import java.util.Scanner;
  
 public class  WeightConverter {
