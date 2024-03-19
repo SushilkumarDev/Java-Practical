@@ -1,5 +1,9 @@
+
+//Write a program to accept three number and check whether they are pythagorean triplet or not.    
+
+
+
 import java.util.Scanner;
- 
 public class PythagoreanTriplets {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
